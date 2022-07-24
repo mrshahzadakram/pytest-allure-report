@@ -1,0 +1,7 @@
+setup.py
+pytest_allure_report.egg-info/PKG-INFO
+pytest_allure_report.egg-info/SOURCES.txt
+pytest_allure_report.egg-info/dependency_links.txt
+pytest_allure_report.egg-info/entry_points.txt
+pytest_allure_report.egg-info/requires.txt
+pytest_allure_report.egg-info/top_level.txt

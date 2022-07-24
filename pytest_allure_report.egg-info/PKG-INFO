@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pytest-allure-report
+Version: 0.1.0
+Summary: A pytest plugin to take screenshots for allure report
+Author: Shahzad Akram
+Author-email: shahzad.akram@newpage.io
+License: proprietary
+Classifier: Framework :: Pytest
